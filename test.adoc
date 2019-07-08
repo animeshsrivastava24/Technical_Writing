@@ -1,13 +1,13 @@
-The method to write an element in inline code is enclosing it in grave accent(`):
+The method to write an element in inline code is enclosing it in **grave accent(`)**:
 
 Example:
 
 `arduino`
 
-The method to show link is by writing link: followed by the link, and writing the text in [] brackets:
+The method to show link is by writing **link:** followed by the **link**, and writing the **text in [] brackets**:
 
 link:www.arduino.cc[arduino]
 
-Now, to show the link highlight in inline code enclose it in grave accent(`):
+Now, to show the link highlight in inline code **enclose it in grave accent(`)**:
 
 `link:www.arduino.cc[arduino]`
