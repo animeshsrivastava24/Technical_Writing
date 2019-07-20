@@ -24,7 +24,7 @@ It takes three arguments rather than the typical one or two that most operators 
 
 [float]
 === Syntax
-expression_1 ? expression_2 : expression_3; // if expression_1 evaluates to true then expression_2 is evaluated else expression_3
+`expression_1 ? expression_2 : expression_3; // if expression_1 evaluates to true then expression_2 is evaluated else expression_3`
 
 
 [float]
