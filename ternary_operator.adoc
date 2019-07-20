@@ -45,8 +45,8 @@ It takes three arguments rather than the typical one or two that most operators 
 
 [source,arduino]
 ----
-int x = 10, y =20, z ; // declared and defined three variables x, y and z
-z = (x<y) ? x : y; 
+int x = 10, y = 20, z ; // declared and defined three variables x, y and z
+z = (x < y) ? x : y;
 // the statement checks the conditional expression and assigns z the value of x, the expression x<y is true
 ----
 [%hardbreaks]
