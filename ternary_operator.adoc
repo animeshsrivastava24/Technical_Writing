@@ -1,6 +1,5 @@
 ---
-title: "?:"
-title_expanded: ternary operator
+title: ternary
 categories: [ "Structure" ]
 subCategories: [ "Control Structure" ]
 ---
