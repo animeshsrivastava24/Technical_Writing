@@ -2,7 +2,7 @@
 title: "?:"
 title_expanded: ternary operator
 categories: [ "Structure" ]
-subCategories: [ "Ternary Operator" ]
+subCategories: [ "Control Structure" ]
 ---
 
 
